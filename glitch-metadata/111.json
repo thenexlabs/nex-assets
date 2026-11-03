@@ -1,0 +1,59 @@
+{
+"description": "The most powerful and dangerous entities in The NEX, driven only by hunger, GLITCH hunt for XP and destroy anything in their paths.",
+"external_url": "https://thenex.world/glitch",
+"image": "ipfs://bafybeib3pykzrc2llnnrsdejkhnl6ugwqtfyjq5tuvviyiq5smrkrhituy/glitch_111.gif",
+"attributes": [
+	{
+		"trait_type": "headgem",
+		"value": "sensor"
+	},
+	{
+		"trait_type": "headtype",
+		"value": "sensor droid"
+	},
+	{
+		"trait_type": "armor_primary",
+		"value": "matte_black"
+	},
+	{
+		"trait_type": "armor_secondary",
+		"value": "steel"
+	},
+	{
+		"trait_type": "chamber",
+		"value": "copper"
+	},
+	{
+		"trait_type": "chamber_detail",
+		"value": "electric"
+	},
+	{
+		"trait_type": "panel_settings",
+		"value": "cube"
+	},
+	{
+		"trait_type": "movement",
+		"value": "defiant"
+	},
+	{
+		"trait_type": "background",
+		"value": "alien organic"
+	},
+	{
+		"trait_type": "environment_extras",
+		"value": "matrix"
+	},
+	{
+		"trait_type": "glitch_color_R",
+		"value": "0.453127384185791"
+	},
+	{
+		"trait_type": "glitch_color_G",
+		"value": "0.985669732093811"
+	},
+	{
+		"trait_type": "glitch_color_B",
+		"value": "0.8169311285018921"
+	}
+]
+}
